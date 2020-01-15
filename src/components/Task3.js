@@ -1,8 +1,13 @@
 import React from 'react';
 
 const Task3 = () => {
-  const search = window.location.hash.slice(window.location.hash.indexOf('?'));
+  let search = '';
   let searchObject = 0;
+  const searchFrom = window.location.hash.indexOf('?');
+
+  if (searchFrom > -1) {
+    search = window.location.hash.slice(searchFrom + 1);
+  }
 
   if (search.length !== 0) {
     searchObject = JSON.parse('{"' + search
