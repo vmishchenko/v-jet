@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Task3 = () => {
-  const search = window.location.search.substring(1);
+  const search = window.location.hash.slice(window.location.hash.indexOf('?'));
   let searchObject = 0;
 
   if (search.length !== 0) {
