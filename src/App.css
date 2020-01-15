@@ -1,0 +1,49 @@
+body {
+  padding: 15px;
+}
+
+.nav {
+  list-style: none;
+  display: flex;
+  padding: 0;
+}
+
+.nav__link,
+.tab__link {
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+  border: 1px solid black;
+  margin-right: 10px;
+}
+
+.nav__link--active {
+  background-color: orange;
+}
+
+dd {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.task3__object p {
+  margin-top: 0;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.task3__object:before {
+  content: '{';
+}
+
+.task3__object:after {
+  content: '}';
+}
