@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/v-jet/static/css/main.ece3561d.chunk.css",
+    "main.js": "/v-jet/static/js/main.dacdc965.chunk.js",
+    "main.js.map": "/v-jet/static/js/main.dacdc965.chunk.js.map",
+    "runtime-main.js": "/v-jet/static/js/runtime-main.4552305a.js",
+    "runtime-main.js.map": "/v-jet/static/js/runtime-main.4552305a.js.map",
+    "static/js/2.e01bc869.chunk.js": "/v-jet/static/js/2.e01bc869.chunk.js",
+    "static/js/2.e01bc869.chunk.js.map": "/v-jet/static/js/2.e01bc869.chunk.js.map",
+    "index.html": "/v-jet/index.html",
+    "precache-manifest.bc04c963a185c2160245dca3bb153943.js": "/v-jet/precache-manifest.bc04c963a185c2160245dca3bb153943.js",
+    "service-worker.js": "/v-jet/service-worker.js",
+    "static/css/main.ece3561d.chunk.css.map": "/v-jet/static/css/main.ece3561d.chunk.css.map",
+    "static/js/2.e01bc869.chunk.js.LICENSE": "/v-jet/static/js/2.e01bc869.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4552305a.js",
+    "static/js/2.e01bc869.chunk.js",
+    "static/css/main.ece3561d.chunk.css",
+    "static/js/main.dacdc965.chunk.js"
+  ]
+}
